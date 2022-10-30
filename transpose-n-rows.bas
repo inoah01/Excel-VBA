@@ -1,6 +1,6 @@
 Attribute VB_Name = "Module1"
 Sub Transpose_N_Rows()
-' This is a macro allows N rows of data to be transposed onto another sheet.
+    ' This is a macro that allows N rows of data to be transposed onto another sheet.
 
 ' Make the macro run faster on large data sets.
 Application.ScreenUpdating = False
